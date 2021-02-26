@@ -2,10 +2,11 @@
   ![sqlalchemy.png](Images/sqlalchemy.png)
 
 
+
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
 ## Step 1 - Climate Analysis and Exploration
-
+  ![sqlalchemy.png](Images/sqlalchemy.png)
 To begin, use Python and SQLAlchemy to do climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 
