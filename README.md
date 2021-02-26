@@ -1,7 +1,4 @@
 # University of Denver Data Analytics Boot Camp: SQLAlchemy Homework - Surfs Up
-
-
-
   ![sqlalchemy.png](Images/sqlalchemy.png?raw=true)
 
 
@@ -51,9 +48,6 @@ To begin, use Python and SQLAlchemy to do climate analysis and data exploration 
   * List the stations and observation counts in descending order.
 
   * Which station has the highest number of observations?
- 
- 
-
   ![stations](Images/stations.png?raw=true)
  
 
