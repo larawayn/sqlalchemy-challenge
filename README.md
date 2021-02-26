@@ -1,5 +1,5 @@
 # University of Denver Data Analytics Boot Camp: SQLAlchemy Homework - Surfs Up
-  ![sqlalchemy.png](Images/sqlalchemy.png?raw=true)
+  ![sqlalchemy.png](Images/sqlalchemy.png)
 
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
@@ -48,7 +48,7 @@ To begin, use Python and SQLAlchemy to do climate analysis and data exploration 
   * List the stations and observation counts in descending order.
 
   * Which station has the highest number of observations?
-  ![stations](Images/stations.png?raw=true)
+  ![stations](Images/stations.png)
  
 
 * Design a query to retrieve the last 12 months of temperature observation data (TOBS).
