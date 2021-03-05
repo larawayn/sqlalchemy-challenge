@@ -1,5 +1,6 @@
 # University of Denver Data Analytics Boot Camp: SQLAlchemy Homework - Surfs Up
-  ![sqlalchemy.png](images/surfs-up.png)
+
+  ![image](Images/SQLAlchemy.png)
 
 
 ## Step 1 - Climate Analysis and Exploration
