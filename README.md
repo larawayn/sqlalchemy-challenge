@@ -8,7 +8,7 @@
 To begin, use Python and SQLAlchemy to do climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 
-* Choose the start and end date for your trip. Make sure that your vacation range is approximately 3-15 days total.
+* Choose the start and end date for your trip to Hawaii. Make sure that your vacation range is approximately 3-15 days total.
 
 * Use SQLAlchemy `create_engine` to connect to your sqlite database.
 
