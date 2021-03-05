@@ -1,5 +1,5 @@
 # University of Denver Data Analytics Boot Camp: SQLAlchemy Homework - Surfs Up
-  ![sqlalchemy.png](images/SQLAlchemy.png)
+  ![sqlalchemy.png](images/surfs-up.png)
 
 
 
